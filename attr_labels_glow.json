@@ -1,0 +1,5245 @@
+{
+  "bvlcalexnet_12+libjit_conv2d_f": [
+    96,
+    11,
+    11,
+    3
+  ],
+  "bvlcalexnet_12+libjit_conv2d_f_0": [
+    256,
+    5,
+    5,
+    48
+  ],
+  "bvlcalexnet_12+libjit_conv2d_f_1": [
+    384,
+    3,
+    3,
+    256
+  ],
+  "bvlcalexnet_12+libjit_conv2d_f_2": [
+    384,
+    3,
+    3,
+    192
+  ],
+  "bvlcalexnet_12+libjit_conv2d_f_3": [
+    256,
+    3,
+    3,
+    192
+  ],
+  "bvlcalexnet_12+libjit_fc_f": [
+    9216,
+    4096
+  ],
+  "bvlcalexnet_12+libjit_fc_f_0": [
+    4096,
+    4096
+  ],
+  "bvlcalexnet_12+libjit_fc_f_1": [
+    4096,
+    1000
+  ],
+  "bvlcalexnet_12+libjit_max_pool_f": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "bvlcalexnet_12+libjit_max_pool_f_0": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "bvlcalexnet_12+libjit_max_pool_f_1": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    1,
+    1
+  ],
+  "caffenet_12+libjit_conv2d_f": [
+    96,
+    11,
+    11,
+    3
+  ],
+  "caffenet_12+libjit_conv2d_f_0": [
+    256,
+    5,
+    5,
+    48
+  ],
+  "caffenet_12+libjit_conv2d_f_1": [
+    384,
+    3,
+    3,
+    256
+  ],
+  "caffenet_12+libjit_conv2d_f_2": [
+    384,
+    3,
+    3,
+    192
+  ],
+  "caffenet_12+libjit_conv2d_f_3": [
+    256,
+    3,
+    3,
+    192
+  ],
+  "caffenet_12+libjit_fc_f": [
+    9216,
+    4096
+  ],
+  "caffenet_12+libjit_fc_f_0": [
+    4096,
+    4096
+  ],
+  "caffenet_12+libjit_fc_f_1": [
+    4096,
+    1000
+  ],
+  "caffenet_12+libjit_max_pool_f": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    2,
+    2
+  ],
+  "caffenet_12+libjit_max_pool_f_0": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    1,
+    1
+  ],
+  "caffenet_12+libjit_max_pool_f_1": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    1,
+    1
+  ],
+  "densenet_3+libjit_avg_pool_f": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "densenet_3+libjit_avg_pool_f_0": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "densenet_3+libjit_avg_pool_f_1": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "densenet_3+libjit_avg_pool_f_2": [
+    7,
+    7,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "densenet_3+libjit_conv2d_f": [
+    64,
+    7,
+    7,
+    3
+  ],
+  "densenet_3+libjit_conv2d_f_0": [
+    128,
+    1,
+    1,
+    64
+  ],
+  "densenet_3+libjit_conv2d_f_1": [
+    32,
+    3,
+    3,
+    128
+  ],
+  "densenet_3+libjit_conv2d_f_10": [
+    128,
+    1,
+    1,
+    192
+  ],
+  "densenet_3+libjit_conv2d_f_11": [
+    128,
+    1,
+    1,
+    224
+  ],
+  "densenet_3+libjit_conv2d_f_12": [
+    128,
+    1,
+    1,
+    256
+  ],
+  "densenet_3+libjit_conv2d_f_13": [
+    128,
+    1,
+    1,
+    288
+  ],
+  "densenet_3+libjit_conv2d_f_14": [
+    128,
+    1,
+    1,
+    320
+  ],
+  "densenet_3+libjit_conv2d_f_15": [
+    128,
+    1,
+    1,
+    352
+  ],
+  "densenet_3+libjit_conv2d_f_16": [
+    128,
+    1,
+    1,
+    384
+  ],
+  "densenet_3+libjit_conv2d_f_17": [
+    128,
+    1,
+    1,
+    416
+  ],
+  "densenet_3+libjit_conv2d_f_18": [
+    128,
+    1,
+    1,
+    448
+  ],
+  "densenet_3+libjit_conv2d_f_19": [
+    128,
+    1,
+    1,
+    480
+  ],
+  "densenet_3+libjit_conv2d_f_2": [
+    128,
+    1,
+    1,
+    96
+  ],
+  "densenet_3+libjit_conv2d_f_20": [
+    128,
+    1,
+    1,
+    256
+  ],
+  "densenet_3+libjit_conv2d_f_21": [
+    32,
+    3,
+    3,
+    128
+  ],
+  "densenet_3+libjit_conv2d_f_22": [
+    128,
+    1,
+    1,
+    288
+  ],
+  "densenet_3+libjit_conv2d_f_23": [
+    128,
+    1,
+    1,
+    320
+  ],
+  "densenet_3+libjit_conv2d_f_24": [
+    128,
+    1,
+    1,
+    352
+  ],
+  "densenet_3+libjit_conv2d_f_25": [
+    128,
+    1,
+    1,
+    384
+  ],
+  "densenet_3+libjit_conv2d_f_26": [
+    128,
+    1,
+    1,
+    416
+  ],
+  "densenet_3+libjit_conv2d_f_27": [
+    128,
+    1,
+    1,
+    448
+  ],
+  "densenet_3+libjit_conv2d_f_28": [
+    128,
+    1,
+    1,
+    480
+  ],
+  "densenet_3+libjit_conv2d_f_29": [
+    128,
+    1,
+    1,
+    512
+  ],
+  "densenet_3+libjit_conv2d_f_3": [
+    128,
+    1,
+    1,
+    128
+  ],
+  "densenet_3+libjit_conv2d_f_30": [
+    128,
+    1,
+    1,
+    544
+  ],
+  "densenet_3+libjit_conv2d_f_31": [
+    128,
+    1,
+    1,
+    576
+  ],
+  "densenet_3+libjit_conv2d_f_32": [
+    128,
+    1,
+    1,
+    608
+  ],
+  "densenet_3+libjit_conv2d_f_33": [
+    128,
+    1,
+    1,
+    640
+  ],
+  "densenet_3+libjit_conv2d_f_34": [
+    128,
+    1,
+    1,
+    672
+  ],
+  "densenet_3+libjit_conv2d_f_35": [
+    128,
+    1,
+    1,
+    704
+  ],
+  "densenet_3+libjit_conv2d_f_36": [
+    128,
+    1,
+    1,
+    736
+  ],
+  "densenet_3+libjit_conv2d_f_37": [
+    128,
+    1,
+    1,
+    768
+  ],
+  "densenet_3+libjit_conv2d_f_38": [
+    128,
+    1,
+    1,
+    800
+  ],
+  "densenet_3+libjit_conv2d_f_39": [
+    128,
+    1,
+    1,
+    832
+  ],
+  "densenet_3+libjit_conv2d_f_4": [
+    128,
+    1,
+    1,
+    160
+  ],
+  "densenet_3+libjit_conv2d_f_40": [
+    128,
+    1,
+    1,
+    864
+  ],
+  "densenet_3+libjit_conv2d_f_41": [
+    128,
+    1,
+    1,
+    896
+  ],
+  "densenet_3+libjit_conv2d_f_42": [
+    128,
+    1,
+    1,
+    928
+  ],
+  "densenet_3+libjit_conv2d_f_43": [
+    128,
+    1,
+    1,
+    960
+  ],
+  "densenet_3+libjit_conv2d_f_44": [
+    128,
+    1,
+    1,
+    992
+  ],
+  "densenet_3+libjit_conv2d_f_45": [
+    128,
+    1,
+    1,
+    512
+  ],
+  "densenet_3+libjit_conv2d_f_46": [
+    32,
+    3,
+    3,
+    128
+  ],
+  "densenet_3+libjit_conv2d_f_47": [
+    128,
+    1,
+    1,
+    544
+  ],
+  "densenet_3+libjit_conv2d_f_48": [
+    128,
+    1,
+    1,
+    576
+  ],
+  "densenet_3+libjit_conv2d_f_49": [
+    128,
+    1,
+    1,
+    608
+  ],
+  "densenet_3+libjit_conv2d_f_5": [
+    128,
+    1,
+    1,
+    192
+  ],
+  "densenet_3+libjit_conv2d_f_50": [
+    128,
+    1,
+    1,
+    640
+  ],
+  "densenet_3+libjit_conv2d_f_51": [
+    128,
+    1,
+    1,
+    672
+  ],
+  "densenet_3+libjit_conv2d_f_52": [
+    128,
+    1,
+    1,
+    704
+  ],
+  "densenet_3+libjit_conv2d_f_53": [
+    128,
+    1,
+    1,
+    736
+  ],
+  "densenet_3+libjit_conv2d_f_54": [
+    128,
+    1,
+    1,
+    768
+  ],
+  "densenet_3+libjit_conv2d_f_55": [
+    128,
+    1,
+    1,
+    800
+  ],
+  "densenet_3+libjit_conv2d_f_56": [
+    128,
+    1,
+    1,
+    832
+  ],
+  "densenet_3+libjit_conv2d_f_57": [
+    128,
+    1,
+    1,
+    864
+  ],
+  "densenet_3+libjit_conv2d_f_58": [
+    128,
+    1,
+    1,
+    896
+  ],
+  "densenet_3+libjit_conv2d_f_59": [
+    128,
+    1,
+    1,
+    928
+  ],
+  "densenet_3+libjit_conv2d_f_6": [
+    128,
+    1,
+    1,
+    224
+  ],
+  "densenet_3+libjit_conv2d_f_60": [
+    128,
+    1,
+    1,
+    960
+  ],
+  "densenet_3+libjit_conv2d_f_61": [
+    128,
+    1,
+    1,
+    992
+  ],
+  "densenet_3+libjit_conv2d_f_62": [
+    1000,
+    1,
+    1,
+    1024
+  ],
+  "densenet_3+libjit_conv2d_f_7": [
+    128,
+    1,
+    1,
+    128
+  ],
+  "densenet_3+libjit_conv2d_f_8": [
+    32,
+    3,
+    3,
+    128
+  ],
+  "densenet_3+libjit_conv2d_f_9": [
+    128,
+    1,
+    1,
+    160
+  ],
+  "densenet_3+libjit_convDKKC8_f": [
+    16,
+    1,
+    1,
+    256,
+    8
+  ],
+  "densenet_3+libjit_convDKKC8_f_0": [
+    32,
+    1,
+    1,
+    512,
+    8
+  ],
+  "densenet_3+libjit_convDKKC8_f_1": [
+    64,
+    1,
+    1,
+    1024,
+    8
+  ],
+  "densenet_3+libjit_max_pool_f": [
+    3,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1
+  ],
+  "efficientnet_lite4_11+libjit_avg_pool_f": [
+    7,
+    7,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f": [
+    32,
+    3,
+    3,
+    3
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_0": [
+    32,
+    3,
+    3,
+    1
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_1": [
+    24,
+    1,
+    1,
+    32
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_10": [
+    336,
+    1,
+    1,
+    56
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_11": [
+    336,
+    5,
+    5,
+    1
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_12": [
+    56,
+    1,
+    1,
+    336
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_13": [
+    336,
+    3,
+    3,
+    1
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_14": [
+    112,
+    1,
+    1,
+    336
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_15": [
+    672,
+    1,
+    1,
+    112
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_16": [
+    672,
+    3,
+    3,
+    1
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_17": [
+    112,
+    1,
+    1,
+    672
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_18": [
+    672,
+    5,
+    5,
+    1
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_19": [
+    160,
+    1,
+    1,
+    672
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_2": [
+    144,
+    1,
+    1,
+    24
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_20": [
+    960,
+    1,
+    1,
+    160
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_21": [
+    960,
+    5,
+    5,
+    1
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_22": [
+    160,
+    1,
+    1,
+    960
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_23": [
+    960,
+    5,
+    5,
+    1
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_24": [
+    272,
+    1,
+    1,
+    960
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_25": [
+    1632,
+    1,
+    1,
+    272
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_26": [
+    1632,
+    5,
+    5,
+    1
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_27": [
+    272,
+    1,
+    1,
+    1632
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_28": [
+    1632,
+    3,
+    3,
+    1
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_29": [
+    1280,
+    1,
+    1,
+    448
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_3": [
+    144,
+    3,
+    3,
+    1
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_4": [
+    32,
+    1,
+    1,
+    144
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_5": [
+    192,
+    1,
+    1,
+    32
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_6": [
+    192,
+    3,
+    3,
+    1
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_7": [
+    32,
+    1,
+    1,
+    192
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_8": [
+    192,
+    5,
+    5,
+    1
+  ],
+  "efficientnet_lite4_11+libjit_conv2d_f_9": [
+    56,
+    1,
+    1,
+    192
+  ],
+  "efficientnet_lite4_11+libjit_convDKKC8_f": [
+    56,
+    1,
+    1,
+    1632,
+    8
+  ],
+  "efficientnet_lite4_11+libjit_fc_f": [
+    1280,
+    1000
+  ],
+  "googlenet_3+libjit_avg_pool_f": [
+    7,
+    7,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "googlenet_3+libjit_conv2d_f": [
+    64,
+    7,
+    7,
+    3
+  ],
+  "googlenet_3+libjit_conv2d_f_0": [
+    64,
+    1,
+    1,
+    64
+  ],
+  "googlenet_3+libjit_conv2d_f_1": [
+    192,
+    3,
+    3,
+    64
+  ],
+  "googlenet_3+libjit_conv2d_f_10": [
+    48,
+    5,
+    5,
+    16
+  ],
+  "googlenet_3+libjit_conv2d_f_11": [
+    96,
+    1,
+    1,
+    480
+  ],
+  "googlenet_3+libjit_conv2d_f_12": [
+    208,
+    3,
+    3,
+    96
+  ],
+  "googlenet_3+libjit_conv2d_f_13": [
+    24,
+    1,
+    1,
+    512
+  ],
+  "googlenet_3+libjit_conv2d_f_14": [
+    160,
+    1,
+    1,
+    512
+  ],
+  "googlenet_3+libjit_conv2d_f_15": [
+    112,
+    1,
+    1,
+    512
+  ],
+  "googlenet_3+libjit_conv2d_f_16": [
+    224,
+    3,
+    3,
+    112
+  ],
+  "googlenet_3+libjit_conv2d_f_17": [
+    128,
+    1,
+    1,
+    512
+  ],
+  "googlenet_3+libjit_conv2d_f_18": [
+    32,
+    1,
+    1,
+    512
+  ],
+  "googlenet_3+libjit_conv2d_f_19": [
+    112,
+    1,
+    1,
+    512
+  ],
+  "googlenet_3+libjit_conv2d_f_2": [
+    16,
+    1,
+    1,
+    192
+  ],
+  "googlenet_3+libjit_conv2d_f_20": [
+    144,
+    1,
+    1,
+    512
+  ],
+  "googlenet_3+libjit_conv2d_f_21": [
+    288,
+    3,
+    3,
+    144
+  ],
+  "googlenet_3+libjit_conv2d_f_22": [
+    32,
+    1,
+    1,
+    528
+  ],
+  "googlenet_3+libjit_conv2d_f_23": [
+    160,
+    1,
+    1,
+    528
+  ],
+  "googlenet_3+libjit_conv2d_f_24": [
+    32,
+    1,
+    1,
+    832
+  ],
+  "googlenet_3+libjit_conv2d_f_25": [
+    160,
+    1,
+    1,
+    832
+  ],
+  "googlenet_3+libjit_conv2d_f_26": [
+    48,
+    1,
+    1,
+    832
+  ],
+  "googlenet_3+libjit_conv2d_f_27": [
+    192,
+    1,
+    1,
+    832
+  ],
+  "googlenet_3+libjit_conv2d_f_3": [
+    32,
+    5,
+    5,
+    16
+  ],
+  "googlenet_3+libjit_conv2d_f_4": [
+    32,
+    1,
+    1,
+    192
+  ],
+  "googlenet_3+libjit_conv2d_f_5": [
+    96,
+    1,
+    1,
+    192
+  ],
+  "googlenet_3+libjit_conv2d_f_6": [
+    32,
+    1,
+    1,
+    256
+  ],
+  "googlenet_3+libjit_conv2d_f_7": [
+    96,
+    5,
+    5,
+    32
+  ],
+  "googlenet_3+libjit_conv2d_f_8": [
+    128,
+    1,
+    1,
+    256
+  ],
+  "googlenet_3+libjit_conv2d_f_9": [
+    16,
+    1,
+    1,
+    480
+  ],
+  "googlenet_3+libjit_convDKKC8_f": [
+    8,
+    1,
+    1,
+    192,
+    8
+  ],
+  "googlenet_3+libjit_convDKKC8_f_0": [
+    16,
+    3,
+    3,
+    96,
+    8
+  ],
+  "googlenet_3+libjit_convDKKC8_f_1": [
+    8,
+    1,
+    1,
+    256,
+    8
+  ],
+  "googlenet_3+libjit_convDKKC8_f_10": [
+    8,
+    5,
+    5,
+    32,
+    8
+  ],
+  "googlenet_3+libjit_convDKKC8_f_11": [
+    16,
+    5,
+    5,
+    32,
+    8
+  ],
+  "googlenet_3+libjit_convDKKC8_f_12": [
+    16,
+    1,
+    1,
+    528,
+    8
+  ],
+  "googlenet_3+libjit_convDKKC8_f_13": [
+    32,
+    1,
+    1,
+    528,
+    8
+  ],
+  "googlenet_3+libjit_convDKKC8_f_14": [
+    40,
+    3,
+    3,
+    160,
+    8
+  ],
+  "googlenet_3+libjit_convDKKC8_f_15": [
+    16,
+    5,
+    5,
+    32,
+    8
+  ],
+  "googlenet_3+libjit_convDKKC8_f_16": [
+    16,
+    1,
+    1,
+    832,
+    8
+  ],
+  "googlenet_3+libjit_convDKKC8_f_17": [
+    32,
+    1,
+    1,
+    832,
+    8
+  ],
+  "googlenet_3+libjit_convDKKC8_f_18": [
+    40,
+    3,
+    3,
+    160,
+    8
+  ],
+  "googlenet_3+libjit_convDKKC8_f_19": [
+    16,
+    5,
+    5,
+    48,
+    8
+  ],
+  "googlenet_3+libjit_convDKKC8_f_2": [
+    16,
+    1,
+    1,
+    256,
+    8
+  ],
+  "googlenet_3+libjit_convDKKC8_f_20": [
+    48,
+    1,
+    1,
+    832,
+    8
+  ],
+  "googlenet_3+libjit_convDKKC8_f_21": [
+    48,
+    3,
+    3,
+    192,
+    8
+  ],
+  "googlenet_3+libjit_convDKKC8_f_3": [
+    24,
+    3,
+    3,
+    128,
+    8
+  ],
+  "googlenet_3+libjit_convDKKC8_f_4": [
+    8,
+    1,
+    1,
+    480,
+    8
+  ],
+  "googlenet_3+libjit_convDKKC8_f_5": [
+    24,
+    1,
+    1,
+    480,
+    8
+  ],
+  "googlenet_3+libjit_convDKKC8_f_6": [
+    8,
+    5,
+    5,
+    24,
+    8
+  ],
+  "googlenet_3+libjit_convDKKC8_f_7": [
+    8,
+    1,
+    1,
+    512,
+    8
+  ],
+  "googlenet_3+libjit_convDKKC8_f_8": [
+    16,
+    1,
+    1,
+    512,
+    8
+  ],
+  "googlenet_3+libjit_convDKKC8_f_9": [
+    32,
+    3,
+    3,
+    128,
+    8
+  ],
+  "googlenet_3+libjit_fc_f": [
+    1024,
+    1000
+  ],
+  "googlenet_3+libjit_max_pool_f": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    2,
+    2
+  ],
+  "googlenet_3+libjit_max_pool_f_0": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    2,
+    2
+  ],
+  "googlenet_3+libjit_max_pool_f_1": [
+    3,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "googlenet_3+libjit_max_pool_f_2": [
+    3,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "googlenet_3+libjit_max_pool_f_3": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    2,
+    2
+  ],
+  "googlenet_3+libjit_max_pool_f_4": [
+    3,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "googlenet_3+libjit_max_pool_f_5": [
+    3,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "googlenet_3+libjit_max_pool_f_6": [
+    3,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "googlenet_3+libjit_max_pool_f_7": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    2,
+    2
+  ],
+  "googlenet_3+libjit_max_pool_f_8": [
+    3,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "inception_v1_12+libjit_avg_pool_f": [
+    7,
+    7,
+    1,
+    1,
+    0,
+    0,
+    1,
+    1
+  ],
+  "inception_v1_12+libjit_conv2d_f": [
+    64,
+    7,
+    7,
+    3
+  ],
+  "inception_v1_12+libjit_conv2d_f_0": [
+    64,
+    1,
+    1,
+    64
+  ],
+  "inception_v1_12+libjit_conv2d_f_1": [
+    192,
+    3,
+    3,
+    64
+  ],
+  "inception_v1_12+libjit_conv2d_f_10": [
+    48,
+    5,
+    5,
+    16
+  ],
+  "inception_v1_12+libjit_conv2d_f_11": [
+    96,
+    1,
+    1,
+    480
+  ],
+  "inception_v1_12+libjit_conv2d_f_12": [
+    208,
+    3,
+    3,
+    96
+  ],
+  "inception_v1_12+libjit_conv2d_f_13": [
+    24,
+    1,
+    1,
+    512
+  ],
+  "inception_v1_12+libjit_conv2d_f_14": [
+    160,
+    1,
+    1,
+    512
+  ],
+  "inception_v1_12+libjit_conv2d_f_15": [
+    112,
+    1,
+    1,
+    512
+  ],
+  "inception_v1_12+libjit_conv2d_f_16": [
+    224,
+    3,
+    3,
+    112
+  ],
+  "inception_v1_12+libjit_conv2d_f_17": [
+    128,
+    1,
+    1,
+    512
+  ],
+  "inception_v1_12+libjit_conv2d_f_18": [
+    32,
+    1,
+    1,
+    512
+  ],
+  "inception_v1_12+libjit_conv2d_f_19": [
+    112,
+    1,
+    1,
+    512
+  ],
+  "inception_v1_12+libjit_conv2d_f_2": [
+    16,
+    1,
+    1,
+    192
+  ],
+  "inception_v1_12+libjit_conv2d_f_20": [
+    144,
+    1,
+    1,
+    512
+  ],
+  "inception_v1_12+libjit_conv2d_f_21": [
+    288,
+    3,
+    3,
+    144
+  ],
+  "inception_v1_12+libjit_conv2d_f_22": [
+    32,
+    1,
+    1,
+    528
+  ],
+  "inception_v1_12+libjit_conv2d_f_23": [
+    160,
+    1,
+    1,
+    528
+  ],
+  "inception_v1_12+libjit_conv2d_f_24": [
+    32,
+    1,
+    1,
+    832
+  ],
+  "inception_v1_12+libjit_conv2d_f_25": [
+    160,
+    1,
+    1,
+    832
+  ],
+  "inception_v1_12+libjit_conv2d_f_26": [
+    48,
+    1,
+    1,
+    832
+  ],
+  "inception_v1_12+libjit_conv2d_f_27": [
+    192,
+    1,
+    1,
+    832
+  ],
+  "inception_v1_12+libjit_conv2d_f_3": [
+    32,
+    5,
+    5,
+    16
+  ],
+  "inception_v1_12+libjit_conv2d_f_4": [
+    32,
+    1,
+    1,
+    192
+  ],
+  "inception_v1_12+libjit_conv2d_f_5": [
+    96,
+    1,
+    1,
+    192
+  ],
+  "inception_v1_12+libjit_conv2d_f_6": [
+    32,
+    1,
+    1,
+    256
+  ],
+  "inception_v1_12+libjit_conv2d_f_7": [
+    96,
+    5,
+    5,
+    32
+  ],
+  "inception_v1_12+libjit_conv2d_f_8": [
+    128,
+    1,
+    1,
+    256
+  ],
+  "inception_v1_12+libjit_conv2d_f_9": [
+    16,
+    1,
+    1,
+    480
+  ],
+  "inception_v1_12+libjit_convDKKC8_f": [
+    8,
+    1,
+    1,
+    192,
+    8
+  ],
+  "inception_v1_12+libjit_convDKKC8_f_0": [
+    16,
+    3,
+    3,
+    96,
+    8
+  ],
+  "inception_v1_12+libjit_convDKKC8_f_1": [
+    8,
+    1,
+    1,
+    256,
+    8
+  ],
+  "inception_v1_12+libjit_convDKKC8_f_10": [
+    8,
+    5,
+    5,
+    32,
+    8
+  ],
+  "inception_v1_12+libjit_convDKKC8_f_11": [
+    16,
+    5,
+    5,
+    32,
+    8
+  ],
+  "inception_v1_12+libjit_convDKKC8_f_12": [
+    16,
+    1,
+    1,
+    528,
+    8
+  ],
+  "inception_v1_12+libjit_convDKKC8_f_13": [
+    32,
+    1,
+    1,
+    528,
+    8
+  ],
+  "inception_v1_12+libjit_convDKKC8_f_14": [
+    40,
+    3,
+    3,
+    160,
+    8
+  ],
+  "inception_v1_12+libjit_convDKKC8_f_15": [
+    16,
+    5,
+    5,
+    32,
+    8
+  ],
+  "inception_v1_12+libjit_convDKKC8_f_16": [
+    16,
+    1,
+    1,
+    832,
+    8
+  ],
+  "inception_v1_12+libjit_convDKKC8_f_17": [
+    32,
+    1,
+    1,
+    832,
+    8
+  ],
+  "inception_v1_12+libjit_convDKKC8_f_18": [
+    40,
+    3,
+    3,
+    160,
+    8
+  ],
+  "inception_v1_12+libjit_convDKKC8_f_19": [
+    16,
+    5,
+    5,
+    48,
+    8
+  ],
+  "inception_v1_12+libjit_convDKKC8_f_2": [
+    16,
+    1,
+    1,
+    256,
+    8
+  ],
+  "inception_v1_12+libjit_convDKKC8_f_20": [
+    48,
+    1,
+    1,
+    832,
+    8
+  ],
+  "inception_v1_12+libjit_convDKKC8_f_21": [
+    48,
+    3,
+    3,
+    192,
+    8
+  ],
+  "inception_v1_12+libjit_convDKKC8_f_3": [
+    24,
+    3,
+    3,
+    128,
+    8
+  ],
+  "inception_v1_12+libjit_convDKKC8_f_4": [
+    8,
+    1,
+    1,
+    480,
+    8
+  ],
+  "inception_v1_12+libjit_convDKKC8_f_5": [
+    24,
+    1,
+    1,
+    480,
+    8
+  ],
+  "inception_v1_12+libjit_convDKKC8_f_6": [
+    8,
+    5,
+    5,
+    24,
+    8
+  ],
+  "inception_v1_12+libjit_convDKKC8_f_7": [
+    8,
+    1,
+    1,
+    512,
+    8
+  ],
+  "inception_v1_12+libjit_convDKKC8_f_8": [
+    16,
+    1,
+    1,
+    512,
+    8
+  ],
+  "inception_v1_12+libjit_convDKKC8_f_9": [
+    32,
+    3,
+    3,
+    128,
+    8
+  ],
+  "inception_v1_12+libjit_fc_f": [
+    1024,
+    1000
+  ],
+  "inception_v1_12+libjit_max_pool_f": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "inception_v1_12+libjit_max_pool_f_0": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "inception_v1_12+libjit_max_pool_f_1": [
+    3,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "inception_v1_12+libjit_max_pool_f_2": [
+    3,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "inception_v1_12+libjit_max_pool_f_3": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "inception_v1_12+libjit_max_pool_f_4": [
+    3,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "inception_v1_12+libjit_max_pool_f_5": [
+    3,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "inception_v1_12+libjit_max_pool_f_6": [
+    3,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "inception_v1_12+libjit_max_pool_f_7": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "inception_v1_12+libjit_max_pool_f_8": [
+    3,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "inception_v2_9+libjit_avg_pool_f": [
+    3,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "inception_v2_9+libjit_avg_pool_f_0": [
+    3,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "inception_v2_9+libjit_avg_pool_f_1": [
+    3,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "inception_v2_9+libjit_avg_pool_f_2": [
+    3,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "inception_v2_9+libjit_avg_pool_f_3": [
+    7,
+    7,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "inception_v2_9+libjit_conv2d_f": [
+    64,
+    7,
+    7,
+    3
+  ],
+  "inception_v2_9+libjit_conv2d_f_0": [
+    64,
+    1,
+    1,
+    64
+  ],
+  "inception_v2_9+libjit_conv2d_f_1": [
+    192,
+    3,
+    3,
+    64
+  ],
+  "inception_v2_9+libjit_conv2d_f_10": [
+    128,
+    1,
+    1,
+    320
+  ],
+  "inception_v2_9+libjit_conv2d_f_11": [
+    160,
+    3,
+    3,
+    128
+  ],
+  "inception_v2_9+libjit_conv2d_f_12": [
+    64,
+    1,
+    1,
+    576
+  ],
+  "inception_v2_9+libjit_conv2d_f_13": [
+    96,
+    3,
+    3,
+    64
+  ],
+  "inception_v2_9+libjit_conv2d_f_14": [
+    96,
+    1,
+    1,
+    576
+  ],
+  "inception_v2_9+libjit_conv2d_f_15": [
+    128,
+    3,
+    3,
+    96
+  ],
+  "inception_v2_9+libjit_conv2d_f_16": [
+    224,
+    1,
+    1,
+    576
+  ],
+  "inception_v2_9+libjit_conv2d_f_17": [
+    96,
+    1,
+    1,
+    576
+  ],
+  "inception_v2_9+libjit_conv2d_f_18": [
+    128,
+    1,
+    1,
+    576
+  ],
+  "inception_v2_9+libjit_conv2d_f_19": [
+    160,
+    3,
+    3,
+    128
+  ],
+  "inception_v2_9+libjit_conv2d_f_2": [
+    32,
+    1,
+    1,
+    192
+  ],
+  "inception_v2_9+libjit_conv2d_f_20": [
+    160,
+    3,
+    3,
+    128
+  ],
+  "inception_v2_9+libjit_conv2d_f_21": [
+    160,
+    3,
+    3,
+    160
+  ],
+  "inception_v2_9+libjit_conv2d_f_22": [
+    160,
+    1,
+    1,
+    576
+  ],
+  "inception_v2_9+libjit_conv2d_f_23": [
+    160,
+    1,
+    1,
+    576
+  ],
+  "inception_v2_9+libjit_conv2d_f_24": [
+    192,
+    3,
+    3,
+    160
+  ],
+  "inception_v2_9+libjit_conv2d_f_25": [
+    192,
+    3,
+    3,
+    128
+  ],
+  "inception_v2_9+libjit_conv2d_f_26": [
+    192,
+    1,
+    1,
+    576
+  ],
+  "inception_v2_9+libjit_conv2d_f_27": [
+    256,
+    3,
+    3,
+    192
+  ],
+  "inception_v2_9+libjit_conv2d_f_28": [
+    256,
+    3,
+    3,
+    256
+  ],
+  "inception_v2_9+libjit_conv2d_f_29": [
+    160,
+    1,
+    1,
+    1024
+  ],
+  "inception_v2_9+libjit_conv2d_f_3": [
+    64,
+    1,
+    1,
+    192
+  ],
+  "inception_v2_9+libjit_conv2d_f_30": [
+    224,
+    3,
+    3,
+    160
+  ],
+  "inception_v2_9+libjit_conv2d_f_31": [
+    224,
+    3,
+    3,
+    224
+  ],
+  "inception_v2_9+libjit_conv2d_f_32": [
+    192,
+    1,
+    1,
+    1024
+  ],
+  "inception_v2_9+libjit_conv2d_f_33": [
+    352,
+    1,
+    1,
+    1024
+  ],
+  "inception_v2_9+libjit_conv2d_f_34": [
+    224,
+    3,
+    3,
+    192
+  ],
+  "inception_v2_9+libjit_conv2d_f_4": [
+    96,
+    3,
+    3,
+    64
+  ],
+  "inception_v2_9+libjit_conv2d_f_5": [
+    96,
+    3,
+    3,
+    96
+  ],
+  "inception_v2_9+libjit_conv2d_f_6": [
+    64,
+    1,
+    1,
+    256
+  ],
+  "inception_v2_9+libjit_conv2d_f_7": [
+    96,
+    3,
+    3,
+    64
+  ],
+  "inception_v2_9+libjit_conv2d_f_8": [
+    64,
+    1,
+    1,
+    320
+  ],
+  "inception_v2_9+libjit_conv2d_f_9": [
+    96,
+    3,
+    3,
+    96
+  ],
+  "inception_v2_9+libjit_convDKKC8_f": [
+    8,
+    3,
+    3,
+    64,
+    8
+  ],
+  "inception_v2_9+libjit_convDKKC8_f_0": [
+    8,
+    1,
+    1,
+    192,
+    8
+  ],
+  "inception_v2_9+libjit_convDKKC8_f_1": [
+    8,
+    1,
+    1,
+    256,
+    8
+  ],
+  "inception_v2_9+libjit_convDKKC8_f_2": [
+    16,
+    3,
+    3,
+    128,
+    8
+  ],
+  "inception_v2_9+libjit_convDKKC8_f_3": [
+    16,
+    1,
+    1,
+    576,
+    8
+  ],
+  "inception_v2_9+libjit_convDKKC8_f_4": [
+    16,
+    3,
+    3,
+    96,
+    8
+  ],
+  "inception_v2_9+libjit_convDKKC8_f_5": [
+    24,
+    1,
+    1,
+    576,
+    8
+  ],
+  "inception_v2_9+libjit_convDKKC8_f_6": [
+    24,
+    3,
+    3,
+    192,
+    8
+  ],
+  "inception_v2_9+libjit_convDKKC8_f_7": [
+    24,
+    3,
+    3,
+    128,
+    8
+  ],
+  "inception_v2_9+libjit_convDKKC8_f_8": [
+    16,
+    1,
+    1,
+    1024,
+    8
+  ],
+  "inception_v2_9+libjit_convDKKC8_f_9": [
+    40,
+    3,
+    3,
+    192,
+    8
+  ],
+  "inception_v2_9+libjit_fc_f": [
+    1024,
+    1000
+  ],
+  "inception_v2_9+libjit_max_pool_f": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    1,
+    1
+  ],
+  "inception_v2_9+libjit_max_pool_f_0": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    1,
+    1
+  ],
+  "inception_v2_9+libjit_max_pool_f_1": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    1,
+    1
+  ],
+  "inception_v2_9+libjit_max_pool_f_2": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    1,
+    1
+  ],
+  "inception_v2_9+libjit_max_pool_f_3": [
+    3,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "mobilenetv2_7+libjit_avg_pool_f": [
+    7,
+    7,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "mobilenetv2_7+libjit_conv2d_f": [
+    32,
+    3,
+    3,
+    3
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_0": [
+    32,
+    1,
+    1,
+    32
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_1": [
+    32,
+    3,
+    3,
+    1
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_10": [
+    32,
+    1,
+    1,
+    144
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_11": [
+    192,
+    1,
+    1,
+    32
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_12": [
+    192,
+    3,
+    3,
+    1
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_13": [
+    32,
+    1,
+    1,
+    192
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_14": [
+    384,
+    1,
+    1,
+    64
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_15": [
+    384,
+    3,
+    3,
+    1
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_16": [
+    384,
+    3,
+    3,
+    1
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_17": [
+    96,
+    1,
+    1,
+    384
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_18": [
+    576,
+    1,
+    1,
+    96
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_19": [
+    576,
+    3,
+    3,
+    1
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_2": [
+    16,
+    1,
+    1,
+    32
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_20": [
+    96,
+    1,
+    1,
+    576
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_21": [
+    576,
+    3,
+    3,
+    1
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_22": [
+    160,
+    1,
+    1,
+    576
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_23": [
+    960,
+    1,
+    1,
+    160
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_24": [
+    960,
+    3,
+    3,
+    1
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_25": [
+    160,
+    1,
+    1,
+    960
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_26": [
+    1280,
+    1,
+    1,
+    320
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_27": [
+    1000,
+    1,
+    1,
+    1280
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_3": [
+    96,
+    1,
+    1,
+    16
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_4": [
+    96,
+    3,
+    3,
+    1
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_5": [
+    24,
+    1,
+    1,
+    96
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_6": [
+    144,
+    1,
+    1,
+    24
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_7": [
+    144,
+    3,
+    3,
+    1
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_8": [
+    24,
+    1,
+    1,
+    144
+  ],
+  "mobilenetv2_7+libjit_conv2d_f_9": [
+    144,
+    3,
+    3,
+    1
+  ],
+  "mobilenetv2_7+libjit_convDKKC8_f": [
+    8,
+    1,
+    1,
+    192,
+    8
+  ],
+  "mobilenetv2_7+libjit_convDKKC8_f_0": [
+    8,
+    1,
+    1,
+    384,
+    8
+  ],
+  "mobilenetv2_7+libjit_convDKKC8_f_1": [
+    40,
+    1,
+    1,
+    960,
+    8
+  ],
+  "rcnn_ilsvrc13_9+libjit_conv2d_f": [
+    96,
+    11,
+    11,
+    3
+  ],
+  "rcnn_ilsvrc13_9+libjit_conv2d_f_0": [
+    256,
+    5,
+    5,
+    48
+  ],
+  "rcnn_ilsvrc13_9+libjit_conv2d_f_1": [
+    384,
+    3,
+    3,
+    256
+  ],
+  "rcnn_ilsvrc13_9+libjit_conv2d_f_2": [
+    384,
+    3,
+    3,
+    192
+  ],
+  "rcnn_ilsvrc13_9+libjit_conv2d_f_3": [
+    256,
+    3,
+    3,
+    192
+  ],
+  "rcnn_ilsvrc13_9+libjit_fc_f": [
+    9216,
+    4096
+  ],
+  "rcnn_ilsvrc13_9+libjit_fc_f_0": [
+    4096,
+    4096
+  ],
+  "rcnn_ilsvrc13_9+libjit_fc_f_1": [
+    4096,
+    200
+  ],
+  "rcnn_ilsvrc13_9+libjit_max_pool_f": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    2,
+    2
+  ],
+  "rcnn_ilsvrc13_9+libjit_max_pool_f_0": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    1,
+    1
+  ],
+  "rcnn_ilsvrc13_9+libjit_max_pool_f_1": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    1,
+    1
+  ],
+  "resnet101_v1_7+libjit_avg_pool_f": [
+    7,
+    7,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "resnet101_v1_7+libjit_conv2d_f": [
+    64,
+    7,
+    7,
+    3
+  ],
+  "resnet101_v1_7+libjit_conv2d_f_0": [
+    64,
+    1,
+    1,
+    64
+  ],
+  "resnet101_v1_7+libjit_conv2d_f_1": [
+    64,
+    3,
+    3,
+    64
+  ],
+  "resnet101_v1_7+libjit_conv2d_f_10": [
+    512,
+    3,
+    3,
+    512
+  ],
+  "resnet101_v1_7+libjit_conv2d_f_11": [
+    512,
+    1,
+    1,
+    2048
+  ],
+  "resnet101_v1_7+libjit_conv2d_f_2": [
+    64,
+    1,
+    1,
+    256
+  ],
+  "resnet101_v1_7+libjit_conv2d_f_3": [
+    128,
+    1,
+    1,
+    256
+  ],
+  "resnet101_v1_7+libjit_conv2d_f_4": [
+    128,
+    3,
+    3,
+    128
+  ],
+  "resnet101_v1_7+libjit_conv2d_f_5": [
+    128,
+    1,
+    1,
+    512
+  ],
+  "resnet101_v1_7+libjit_conv2d_f_6": [
+    256,
+    1,
+    1,
+    512
+  ],
+  "resnet101_v1_7+libjit_conv2d_f_7": [
+    256,
+    3,
+    3,
+    256
+  ],
+  "resnet101_v1_7+libjit_conv2d_f_8": [
+    256,
+    1,
+    1,
+    1024
+  ],
+  "resnet101_v1_7+libjit_conv2d_f_9": [
+    512,
+    1,
+    1,
+    1024
+  ],
+  "resnet101_v1_7+libjit_convDKKC8_f": [
+    32,
+    1,
+    1,
+    64,
+    8
+  ],
+  "resnet101_v1_7+libjit_convDKKC8_f_0": [
+    64,
+    1,
+    1,
+    128,
+    8
+  ],
+  "resnet101_v1_7+libjit_convDKKC8_f_1": [
+    64,
+    1,
+    1,
+    256,
+    8
+  ],
+  "resnet101_v1_7+libjit_convDKKC8_f_2": [
+    128,
+    1,
+    1,
+    256,
+    8
+  ],
+  "resnet101_v1_7+libjit_convDKKC8_f_3": [
+    128,
+    1,
+    1,
+    512,
+    8
+  ],
+  "resnet101_v1_7+libjit_convDKKC8_f_4": [
+    256,
+    1,
+    1,
+    512,
+    8
+  ],
+  "resnet101_v1_7+libjit_convDKKC8_f_5": [
+    256,
+    1,
+    1,
+    1024,
+    8
+  ],
+  "resnet101_v1_7+libjit_fc_f": [
+    2048,
+    1000
+  ],
+  "resnet101_v1_7+libjit_max_pool_f": [
+    3,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1
+  ],
+  "resnet101_v2_7+libjit_avg_pool_f": [
+    7,
+    7,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "resnet101_v2_7+libjit_conv2d_f": [
+    64,
+    7,
+    7,
+    3
+  ],
+  "resnet101_v2_7+libjit_conv2d_f_0": [
+    64,
+    1,
+    1,
+    64
+  ],
+  "resnet101_v2_7+libjit_conv2d_f_1": [
+    64,
+    3,
+    3,
+    64
+  ],
+  "resnet101_v2_7+libjit_conv2d_f_10": [
+    256,
+    3,
+    3,
+    256
+  ],
+  "resnet101_v2_7+libjit_conv2d_f_11": [
+    512,
+    1,
+    1,
+    1024
+  ],
+  "resnet101_v2_7+libjit_conv2d_f_12": [
+    512,
+    3,
+    3,
+    512
+  ],
+  "resnet101_v2_7+libjit_conv2d_f_13": [
+    512,
+    1,
+    1,
+    2048
+  ],
+  "resnet101_v2_7+libjit_conv2d_f_14": [
+    512,
+    3,
+    3,
+    512
+  ],
+  "resnet101_v2_7+libjit_conv2d_f_2": [
+    64,
+    1,
+    1,
+    256
+  ],
+  "resnet101_v2_7+libjit_conv2d_f_3": [
+    128,
+    1,
+    1,
+    256
+  ],
+  "resnet101_v2_7+libjit_conv2d_f_4": [
+    128,
+    3,
+    3,
+    128
+  ],
+  "resnet101_v2_7+libjit_conv2d_f_5": [
+    128,
+    1,
+    1,
+    512
+  ],
+  "resnet101_v2_7+libjit_conv2d_f_6": [
+    128,
+    3,
+    3,
+    128
+  ],
+  "resnet101_v2_7+libjit_conv2d_f_7": [
+    256,
+    1,
+    1,
+    512
+  ],
+  "resnet101_v2_7+libjit_conv2d_f_8": [
+    256,
+    3,
+    3,
+    256
+  ],
+  "resnet101_v2_7+libjit_conv2d_f_9": [
+    256,
+    1,
+    1,
+    1024
+  ],
+  "resnet101_v2_7+libjit_convDKKC8_f": [
+    32,
+    1,
+    1,
+    64,
+    8
+  ],
+  "resnet101_v2_7+libjit_convDKKC8_f_0": [
+    64,
+    1,
+    1,
+    128,
+    8
+  ],
+  "resnet101_v2_7+libjit_convDKKC8_f_1": [
+    64,
+    1,
+    1,
+    256,
+    8
+  ],
+  "resnet101_v2_7+libjit_convDKKC8_f_2": [
+    128,
+    1,
+    1,
+    256,
+    8
+  ],
+  "resnet101_v2_7+libjit_convDKKC8_f_3": [
+    128,
+    1,
+    1,
+    512,
+    8
+  ],
+  "resnet101_v2_7+libjit_convDKKC8_f_4": [
+    256,
+    1,
+    1,
+    512,
+    8
+  ],
+  "resnet101_v2_7+libjit_convDKKC8_f_5": [
+    256,
+    1,
+    1,
+    1024,
+    8
+  ],
+  "resnet101_v2_7+libjit_fc_f": [
+    2048,
+    1000
+  ],
+  "resnet101_v2_7+libjit_max_pool_f": [
+    3,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1
+  ],
+  "resnet152_v1_7+libjit_avg_pool_f": [
+    7,
+    7,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "resnet152_v1_7+libjit_conv2d_f": [
+    64,
+    7,
+    7,
+    3
+  ],
+  "resnet152_v1_7+libjit_conv2d_f_0": [
+    64,
+    1,
+    1,
+    64
+  ],
+  "resnet152_v1_7+libjit_conv2d_f_1": [
+    64,
+    3,
+    3,
+    64
+  ],
+  "resnet152_v1_7+libjit_conv2d_f_10": [
+    512,
+    3,
+    3,
+    512
+  ],
+  "resnet152_v1_7+libjit_conv2d_f_11": [
+    512,
+    1,
+    1,
+    2048
+  ],
+  "resnet152_v1_7+libjit_conv2d_f_2": [
+    64,
+    1,
+    1,
+    256
+  ],
+  "resnet152_v1_7+libjit_conv2d_f_3": [
+    128,
+    1,
+    1,
+    256
+  ],
+  "resnet152_v1_7+libjit_conv2d_f_4": [
+    128,
+    3,
+    3,
+    128
+  ],
+  "resnet152_v1_7+libjit_conv2d_f_5": [
+    128,
+    1,
+    1,
+    512
+  ],
+  "resnet152_v1_7+libjit_conv2d_f_6": [
+    256,
+    1,
+    1,
+    512
+  ],
+  "resnet152_v1_7+libjit_conv2d_f_7": [
+    256,
+    3,
+    3,
+    256
+  ],
+  "resnet152_v1_7+libjit_conv2d_f_8": [
+    256,
+    1,
+    1,
+    1024
+  ],
+  "resnet152_v1_7+libjit_conv2d_f_9": [
+    512,
+    1,
+    1,
+    1024
+  ],
+  "resnet152_v1_7+libjit_convDKKC8_f": [
+    32,
+    1,
+    1,
+    64,
+    8
+  ],
+  "resnet152_v1_7+libjit_convDKKC8_f_0": [
+    64,
+    1,
+    1,
+    128,
+    8
+  ],
+  "resnet152_v1_7+libjit_convDKKC8_f_1": [
+    64,
+    1,
+    1,
+    256,
+    8
+  ],
+  "resnet152_v1_7+libjit_convDKKC8_f_2": [
+    128,
+    1,
+    1,
+    256,
+    8
+  ],
+  "resnet152_v1_7+libjit_convDKKC8_f_3": [
+    128,
+    1,
+    1,
+    512,
+    8
+  ],
+  "resnet152_v1_7+libjit_convDKKC8_f_4": [
+    256,
+    1,
+    1,
+    512,
+    8
+  ],
+  "resnet152_v1_7+libjit_convDKKC8_f_5": [
+    256,
+    1,
+    1,
+    1024,
+    8
+  ],
+  "resnet152_v1_7+libjit_fc_f": [
+    2048,
+    1000
+  ],
+  "resnet152_v1_7+libjit_max_pool_f": [
+    3,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1
+  ],
+  "resnet152_v2_7+libjit_avg_pool_f": [
+    7,
+    7,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "resnet152_v2_7+libjit_conv2d_f": [
+    64,
+    7,
+    7,
+    3
+  ],
+  "resnet152_v2_7+libjit_conv2d_f_0": [
+    64,
+    1,
+    1,
+    64
+  ],
+  "resnet152_v2_7+libjit_conv2d_f_1": [
+    64,
+    3,
+    3,
+    64
+  ],
+  "resnet152_v2_7+libjit_conv2d_f_10": [
+    256,
+    3,
+    3,
+    256
+  ],
+  "resnet152_v2_7+libjit_conv2d_f_11": [
+    512,
+    1,
+    1,
+    1024
+  ],
+  "resnet152_v2_7+libjit_conv2d_f_12": [
+    512,
+    3,
+    3,
+    512
+  ],
+  "resnet152_v2_7+libjit_conv2d_f_13": [
+    512,
+    1,
+    1,
+    2048
+  ],
+  "resnet152_v2_7+libjit_conv2d_f_14": [
+    512,
+    3,
+    3,
+    512
+  ],
+  "resnet152_v2_7+libjit_conv2d_f_2": [
+    64,
+    1,
+    1,
+    256
+  ],
+  "resnet152_v2_7+libjit_conv2d_f_3": [
+    128,
+    1,
+    1,
+    256
+  ],
+  "resnet152_v2_7+libjit_conv2d_f_4": [
+    128,
+    3,
+    3,
+    128
+  ],
+  "resnet152_v2_7+libjit_conv2d_f_5": [
+    128,
+    1,
+    1,
+    512
+  ],
+  "resnet152_v2_7+libjit_conv2d_f_6": [
+    128,
+    3,
+    3,
+    128
+  ],
+  "resnet152_v2_7+libjit_conv2d_f_7": [
+    256,
+    1,
+    1,
+    512
+  ],
+  "resnet152_v2_7+libjit_conv2d_f_8": [
+    256,
+    3,
+    3,
+    256
+  ],
+  "resnet152_v2_7+libjit_conv2d_f_9": [
+    256,
+    1,
+    1,
+    1024
+  ],
+  "resnet152_v2_7+libjit_convDKKC8_f": [
+    32,
+    1,
+    1,
+    64,
+    8
+  ],
+  "resnet152_v2_7+libjit_convDKKC8_f_0": [
+    64,
+    1,
+    1,
+    128,
+    8
+  ],
+  "resnet152_v2_7+libjit_convDKKC8_f_1": [
+    64,
+    1,
+    1,
+    256,
+    8
+  ],
+  "resnet152_v2_7+libjit_convDKKC8_f_2": [
+    128,
+    1,
+    1,
+    256,
+    8
+  ],
+  "resnet152_v2_7+libjit_convDKKC8_f_3": [
+    128,
+    1,
+    1,
+    512,
+    8
+  ],
+  "resnet152_v2_7+libjit_convDKKC8_f_4": [
+    256,
+    1,
+    1,
+    512,
+    8
+  ],
+  "resnet152_v2_7+libjit_convDKKC8_f_5": [
+    256,
+    1,
+    1,
+    1024,
+    8
+  ],
+  "resnet152_v2_7+libjit_fc_f": [
+    2048,
+    1000
+  ],
+  "resnet152_v2_7+libjit_max_pool_f": [
+    3,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1
+  ],
+  "resnet18_v1_7+libjit_avg_pool_f": [
+    7,
+    7,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "resnet18_v1_7+libjit_conv2d_f": [
+    64,
+    7,
+    7,
+    3
+  ],
+  "resnet18_v1_7+libjit_conv2d_f_0": [
+    64,
+    3,
+    3,
+    64
+  ],
+  "resnet18_v1_7+libjit_conv2d_f_1": [
+    128,
+    3,
+    3,
+    64
+  ],
+  "resnet18_v1_7+libjit_conv2d_f_2": [
+    128,
+    3,
+    3,
+    128
+  ],
+  "resnet18_v1_7+libjit_conv2d_f_3": [
+    256,
+    3,
+    3,
+    128
+  ],
+  "resnet18_v1_7+libjit_conv2d_f_4": [
+    256,
+    3,
+    3,
+    256
+  ],
+  "resnet18_v1_7+libjit_conv2d_f_5": [
+    512,
+    3,
+    3,
+    256
+  ],
+  "resnet18_v1_7+libjit_conv2d_f_6": [
+    512,
+    3,
+    3,
+    512
+  ],
+  "resnet18_v1_7+libjit_convDKKC8_f": [
+    8,
+    3,
+    3,
+    64,
+    8
+  ],
+  "resnet18_v1_7+libjit_convDKKC8_f_0": [
+    16,
+    1,
+    1,
+    64,
+    8
+  ],
+  "resnet18_v1_7+libjit_convDKKC8_f_1": [
+    16,
+    3,
+    3,
+    128,
+    8
+  ],
+  "resnet18_v1_7+libjit_convDKKC8_f_2": [
+    32,
+    1,
+    1,
+    128,
+    8
+  ],
+  "resnet18_v1_7+libjit_convDKKC8_f_3": [
+    32,
+    3,
+    3,
+    256,
+    8
+  ],
+  "resnet18_v1_7+libjit_convDKKC8_f_4": [
+    64,
+    1,
+    1,
+    256,
+    8
+  ],
+  "resnet18_v1_7+libjit_convDKKC8_f_5": [
+    64,
+    3,
+    3,
+    512,
+    8
+  ],
+  "resnet18_v1_7+libjit_fc_f": [
+    512,
+    1000
+  ],
+  "resnet18_v1_7+libjit_max_pool_f": [
+    3,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1
+  ],
+  "resnet18_v2_7+libjit_avg_pool_f": [
+    7,
+    7,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "resnet18_v2_7+libjit_conv2d_f": [
+    64,
+    7,
+    7,
+    3
+  ],
+  "resnet18_v2_7+libjit_conv2d_f_0": [
+    64,
+    3,
+    3,
+    64
+  ],
+  "resnet18_v2_7+libjit_conv2d_f_1": [
+    128,
+    3,
+    3,
+    64
+  ],
+  "resnet18_v2_7+libjit_conv2d_f_2": [
+    128,
+    3,
+    3,
+    128
+  ],
+  "resnet18_v2_7+libjit_conv2d_f_3": [
+    256,
+    3,
+    3,
+    128
+  ],
+  "resnet18_v2_7+libjit_conv2d_f_4": [
+    256,
+    3,
+    3,
+    256
+  ],
+  "resnet18_v2_7+libjit_conv2d_f_5": [
+    512,
+    3,
+    3,
+    256
+  ],
+  "resnet18_v2_7+libjit_conv2d_f_6": [
+    512,
+    3,
+    3,
+    512
+  ],
+  "resnet18_v2_7+libjit_convDKKC8_f": [
+    8,
+    3,
+    3,
+    64,
+    8
+  ],
+  "resnet18_v2_7+libjit_convDKKC8_f_0": [
+    16,
+    3,
+    3,
+    128,
+    8
+  ],
+  "resnet18_v2_7+libjit_convDKKC8_f_1": [
+    16,
+    1,
+    1,
+    64,
+    8
+  ],
+  "resnet18_v2_7+libjit_convDKKC8_f_2": [
+    32,
+    3,
+    3,
+    256,
+    8
+  ],
+  "resnet18_v2_7+libjit_convDKKC8_f_3": [
+    32,
+    1,
+    1,
+    128,
+    8
+  ],
+  "resnet18_v2_7+libjit_convDKKC8_f_4": [
+    64,
+    3,
+    3,
+    512,
+    8
+  ],
+  "resnet18_v2_7+libjit_convDKKC8_f_5": [
+    64,
+    1,
+    1,
+    256,
+    8
+  ],
+  "resnet18_v2_7+libjit_fc_f": [
+    512,
+    1000
+  ],
+  "resnet18_v2_7+libjit_max_pool_f": [
+    3,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1
+  ],
+  "resnet34_v1_7+libjit_avg_pool_f": [
+    7,
+    7,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "resnet34_v1_7+libjit_conv2d_f": [
+    64,
+    7,
+    7,
+    3
+  ],
+  "resnet34_v1_7+libjit_conv2d_f_0": [
+    64,
+    3,
+    3,
+    64
+  ],
+  "resnet34_v1_7+libjit_conv2d_f_1": [
+    128,
+    3,
+    3,
+    64
+  ],
+  "resnet34_v1_7+libjit_conv2d_f_2": [
+    128,
+    3,
+    3,
+    128
+  ],
+  "resnet34_v1_7+libjit_conv2d_f_3": [
+    256,
+    3,
+    3,
+    128
+  ],
+  "resnet34_v1_7+libjit_conv2d_f_4": [
+    256,
+    3,
+    3,
+    256
+  ],
+  "resnet34_v1_7+libjit_conv2d_f_5": [
+    512,
+    3,
+    3,
+    256
+  ],
+  "resnet34_v1_7+libjit_conv2d_f_6": [
+    512,
+    3,
+    3,
+    512
+  ],
+  "resnet34_v1_7+libjit_convDKKC8_f": [
+    8,
+    3,
+    3,
+    64,
+    8
+  ],
+  "resnet34_v1_7+libjit_convDKKC8_f_0": [
+    16,
+    1,
+    1,
+    64,
+    8
+  ],
+  "resnet34_v1_7+libjit_convDKKC8_f_1": [
+    16,
+    3,
+    3,
+    128,
+    8
+  ],
+  "resnet34_v1_7+libjit_convDKKC8_f_2": [
+    32,
+    1,
+    1,
+    128,
+    8
+  ],
+  "resnet34_v1_7+libjit_convDKKC8_f_3": [
+    32,
+    3,
+    3,
+    256,
+    8
+  ],
+  "resnet34_v1_7+libjit_convDKKC8_f_4": [
+    64,
+    1,
+    1,
+    256,
+    8
+  ],
+  "resnet34_v1_7+libjit_convDKKC8_f_5": [
+    64,
+    3,
+    3,
+    512,
+    8
+  ],
+  "resnet34_v1_7+libjit_fc_f": [
+    512,
+    1000
+  ],
+  "resnet34_v1_7+libjit_max_pool_f": [
+    3,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1
+  ],
+  "resnet34_v2_7+libjit_avg_pool_f": [
+    7,
+    7,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "resnet34_v2_7+libjit_conv2d_f": [
+    64,
+    7,
+    7,
+    3
+  ],
+  "resnet34_v2_7+libjit_conv2d_f_0": [
+    64,
+    3,
+    3,
+    64
+  ],
+  "resnet34_v2_7+libjit_conv2d_f_1": [
+    128,
+    3,
+    3,
+    64
+  ],
+  "resnet34_v2_7+libjit_conv2d_f_2": [
+    128,
+    3,
+    3,
+    128
+  ],
+  "resnet34_v2_7+libjit_conv2d_f_3": [
+    256,
+    3,
+    3,
+    128
+  ],
+  "resnet34_v2_7+libjit_conv2d_f_4": [
+    256,
+    3,
+    3,
+    256
+  ],
+  "resnet34_v2_7+libjit_conv2d_f_5": [
+    512,
+    3,
+    3,
+    256
+  ],
+  "resnet34_v2_7+libjit_conv2d_f_6": [
+    512,
+    3,
+    3,
+    512
+  ],
+  "resnet34_v2_7+libjit_convDKKC8_f": [
+    8,
+    3,
+    3,
+    64,
+    8
+  ],
+  "resnet34_v2_7+libjit_convDKKC8_f_0": [
+    16,
+    3,
+    3,
+    128,
+    8
+  ],
+  "resnet34_v2_7+libjit_convDKKC8_f_1": [
+    16,
+    1,
+    1,
+    64,
+    8
+  ],
+  "resnet34_v2_7+libjit_convDKKC8_f_2": [
+    32,
+    3,
+    3,
+    256,
+    8
+  ],
+  "resnet34_v2_7+libjit_convDKKC8_f_3": [
+    32,
+    1,
+    1,
+    128,
+    8
+  ],
+  "resnet34_v2_7+libjit_convDKKC8_f_4": [
+    64,
+    3,
+    3,
+    512,
+    8
+  ],
+  "resnet34_v2_7+libjit_convDKKC8_f_5": [
+    64,
+    1,
+    1,
+    256,
+    8
+  ],
+  "resnet34_v2_7+libjit_fc_f": [
+    512,
+    1000
+  ],
+  "resnet34_v2_7+libjit_max_pool_f": [
+    3,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1
+  ],
+  "resnet50_caffe2_v1_9+libjit_avg_pool_f": [
+    7,
+    7,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "resnet50_caffe2_v1_9+libjit_conv2d_f": [
+    64,
+    7,
+    7,
+    3
+  ],
+  "resnet50_caffe2_v1_9+libjit_conv2d_f_0": [
+    64,
+    1,
+    1,
+    64
+  ],
+  "resnet50_caffe2_v1_9+libjit_conv2d_f_1": [
+    64,
+    3,
+    3,
+    64
+  ],
+  "resnet50_caffe2_v1_9+libjit_conv2d_f_10": [
+    256,
+    3,
+    3,
+    256
+  ],
+  "resnet50_caffe2_v1_9+libjit_conv2d_f_11": [
+    512,
+    1,
+    1,
+    1024
+  ],
+  "resnet50_caffe2_v1_9+libjit_conv2d_f_12": [
+    512,
+    3,
+    3,
+    512
+  ],
+  "resnet50_caffe2_v1_9+libjit_conv2d_f_13": [
+    512,
+    1,
+    1,
+    2048
+  ],
+  "resnet50_caffe2_v1_9+libjit_conv2d_f_14": [
+    512,
+    3,
+    3,
+    512
+  ],
+  "resnet50_caffe2_v1_9+libjit_conv2d_f_2": [
+    64,
+    1,
+    1,
+    256
+  ],
+  "resnet50_caffe2_v1_9+libjit_conv2d_f_3": [
+    128,
+    1,
+    1,
+    256
+  ],
+  "resnet50_caffe2_v1_9+libjit_conv2d_f_4": [
+    128,
+    3,
+    3,
+    128
+  ],
+  "resnet50_caffe2_v1_9+libjit_conv2d_f_5": [
+    128,
+    1,
+    1,
+    512
+  ],
+  "resnet50_caffe2_v1_9+libjit_conv2d_f_6": [
+    128,
+    3,
+    3,
+    128
+  ],
+  "resnet50_caffe2_v1_9+libjit_conv2d_f_7": [
+    256,
+    1,
+    1,
+    512
+  ],
+  "resnet50_caffe2_v1_9+libjit_conv2d_f_8": [
+    256,
+    3,
+    3,
+    256
+  ],
+  "resnet50_caffe2_v1_9+libjit_conv2d_f_9": [
+    256,
+    1,
+    1,
+    1024
+  ],
+  "resnet50_caffe2_v1_9+libjit_convDKKC8_f": [
+    32,
+    1,
+    1,
+    64,
+    8
+  ],
+  "resnet50_caffe2_v1_9+libjit_convDKKC8_f_0": [
+    64,
+    1,
+    1,
+    128,
+    8
+  ],
+  "resnet50_caffe2_v1_9+libjit_convDKKC8_f_1": [
+    64,
+    1,
+    1,
+    256,
+    8
+  ],
+  "resnet50_caffe2_v1_9+libjit_convDKKC8_f_2": [
+    128,
+    1,
+    1,
+    256,
+    8
+  ],
+  "resnet50_caffe2_v1_9+libjit_convDKKC8_f_3": [
+    128,
+    1,
+    1,
+    512,
+    8
+  ],
+  "resnet50_caffe2_v1_9+libjit_convDKKC8_f_4": [
+    256,
+    1,
+    1,
+    512,
+    8
+  ],
+  "resnet50_caffe2_v1_9+libjit_convDKKC8_f_5": [
+    256,
+    1,
+    1,
+    1024,
+    8
+  ],
+  "resnet50_caffe2_v1_9+libjit_fc_f": [
+    2048,
+    1000
+  ],
+  "resnet50_caffe2_v1_9+libjit_max_pool_f": [
+    3,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1
+  ],
+  "resnet50_v1_7+libjit_avg_pool_f": [
+    7,
+    7,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "resnet50_v1_7+libjit_conv2d_f": [
+    64,
+    7,
+    7,
+    3
+  ],
+  "resnet50_v1_7+libjit_conv2d_f_0": [
+    64,
+    1,
+    1,
+    64
+  ],
+  "resnet50_v1_7+libjit_conv2d_f_1": [
+    64,
+    3,
+    3,
+    64
+  ],
+  "resnet50_v1_7+libjit_conv2d_f_10": [
+    512,
+    3,
+    3,
+    512
+  ],
+  "resnet50_v1_7+libjit_conv2d_f_11": [
+    512,
+    1,
+    1,
+    2048
+  ],
+  "resnet50_v1_7+libjit_conv2d_f_2": [
+    64,
+    1,
+    1,
+    256
+  ],
+  "resnet50_v1_7+libjit_conv2d_f_3": [
+    128,
+    1,
+    1,
+    256
+  ],
+  "resnet50_v1_7+libjit_conv2d_f_4": [
+    128,
+    3,
+    3,
+    128
+  ],
+  "resnet50_v1_7+libjit_conv2d_f_5": [
+    128,
+    1,
+    1,
+    512
+  ],
+  "resnet50_v1_7+libjit_conv2d_f_6": [
+    256,
+    1,
+    1,
+    512
+  ],
+  "resnet50_v1_7+libjit_conv2d_f_7": [
+    256,
+    3,
+    3,
+    256
+  ],
+  "resnet50_v1_7+libjit_conv2d_f_8": [
+    256,
+    1,
+    1,
+    1024
+  ],
+  "resnet50_v1_7+libjit_conv2d_f_9": [
+    512,
+    1,
+    1,
+    1024
+  ],
+  "resnet50_v1_7+libjit_convDKKC8_f": [
+    32,
+    1,
+    1,
+    64,
+    8
+  ],
+  "resnet50_v1_7+libjit_convDKKC8_f_0": [
+    64,
+    1,
+    1,
+    128,
+    8
+  ],
+  "resnet50_v1_7+libjit_convDKKC8_f_1": [
+    64,
+    1,
+    1,
+    256,
+    8
+  ],
+  "resnet50_v1_7+libjit_convDKKC8_f_2": [
+    128,
+    1,
+    1,
+    256,
+    8
+  ],
+  "resnet50_v1_7+libjit_convDKKC8_f_3": [
+    128,
+    1,
+    1,
+    512,
+    8
+  ],
+  "resnet50_v1_7+libjit_convDKKC8_f_4": [
+    256,
+    1,
+    1,
+    512,
+    8
+  ],
+  "resnet50_v1_7+libjit_convDKKC8_f_5": [
+    256,
+    1,
+    1,
+    1024,
+    8
+  ],
+  "resnet50_v1_7+libjit_fc_f": [
+    2048,
+    1000
+  ],
+  "resnet50_v1_7+libjit_max_pool_f": [
+    3,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1
+  ],
+  "resnet50_v2_7+libjit_avg_pool_f": [
+    7,
+    7,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "resnet50_v2_7+libjit_conv2d_f": [
+    64,
+    7,
+    7,
+    3
+  ],
+  "resnet50_v2_7+libjit_conv2d_f_0": [
+    64,
+    1,
+    1,
+    64
+  ],
+  "resnet50_v2_7+libjit_conv2d_f_1": [
+    64,
+    3,
+    3,
+    64
+  ],
+  "resnet50_v2_7+libjit_conv2d_f_10": [
+    256,
+    3,
+    3,
+    256
+  ],
+  "resnet50_v2_7+libjit_conv2d_f_11": [
+    512,
+    1,
+    1,
+    1024
+  ],
+  "resnet50_v2_7+libjit_conv2d_f_12": [
+    512,
+    3,
+    3,
+    512
+  ],
+  "resnet50_v2_7+libjit_conv2d_f_13": [
+    512,
+    1,
+    1,
+    2048
+  ],
+  "resnet50_v2_7+libjit_conv2d_f_14": [
+    512,
+    3,
+    3,
+    512
+  ],
+  "resnet50_v2_7+libjit_conv2d_f_2": [
+    64,
+    1,
+    1,
+    256
+  ],
+  "resnet50_v2_7+libjit_conv2d_f_3": [
+    128,
+    1,
+    1,
+    256
+  ],
+  "resnet50_v2_7+libjit_conv2d_f_4": [
+    128,
+    3,
+    3,
+    128
+  ],
+  "resnet50_v2_7+libjit_conv2d_f_5": [
+    128,
+    1,
+    1,
+    512
+  ],
+  "resnet50_v2_7+libjit_conv2d_f_6": [
+    128,
+    3,
+    3,
+    128
+  ],
+  "resnet50_v2_7+libjit_conv2d_f_7": [
+    256,
+    1,
+    1,
+    512
+  ],
+  "resnet50_v2_7+libjit_conv2d_f_8": [
+    256,
+    3,
+    3,
+    256
+  ],
+  "resnet50_v2_7+libjit_conv2d_f_9": [
+    256,
+    1,
+    1,
+    1024
+  ],
+  "resnet50_v2_7+libjit_convDKKC8_f": [
+    32,
+    1,
+    1,
+    64,
+    8
+  ],
+  "resnet50_v2_7+libjit_convDKKC8_f_0": [
+    64,
+    1,
+    1,
+    128,
+    8
+  ],
+  "resnet50_v2_7+libjit_convDKKC8_f_1": [
+    64,
+    1,
+    1,
+    256,
+    8
+  ],
+  "resnet50_v2_7+libjit_convDKKC8_f_2": [
+    128,
+    1,
+    1,
+    256,
+    8
+  ],
+  "resnet50_v2_7+libjit_convDKKC8_f_3": [
+    128,
+    1,
+    1,
+    512,
+    8
+  ],
+  "resnet50_v2_7+libjit_convDKKC8_f_4": [
+    256,
+    1,
+    1,
+    512,
+    8
+  ],
+  "resnet50_v2_7+libjit_convDKKC8_f_5": [
+    256,
+    1,
+    1,
+    1024,
+    8
+  ],
+  "resnet50_v2_7+libjit_fc_f": [
+    2048,
+    1000
+  ],
+  "resnet50_v2_7+libjit_max_pool_f": [
+    3,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1
+  ],
+  "shufflenet_9+libjit_avg_pool_f": [
+    3,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1
+  ],
+  "shufflenet_9+libjit_avg_pool_f_0": [
+    3,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1
+  ],
+  "shufflenet_9+libjit_avg_pool_f_1": [
+    3,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1
+  ],
+  "shufflenet_9+libjit_avg_pool_f_2": [
+    7,
+    7,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "shufflenet_9+libjit_conv2d_f": [
+    24,
+    3,
+    3,
+    3
+  ],
+  "shufflenet_9+libjit_conv2d_f_0": [
+    112,
+    1,
+    1,
+    6
+  ],
+  "shufflenet_9+libjit_conv2d_f_1": [
+    112,
+    3,
+    3,
+    1
+  ],
+  "shufflenet_9+libjit_conv2d_f_10": [
+    272,
+    1,
+    1,
+    68
+  ],
+  "shufflenet_9+libjit_conv2d_f_11": [
+    272,
+    3,
+    3,
+    1
+  ],
+  "shufflenet_9+libjit_conv2d_f_12": [
+    272,
+    1,
+    1,
+    68
+  ],
+  "shufflenet_9+libjit_conv2d_f_13": [
+    544,
+    1,
+    1,
+    136
+  ],
+  "shufflenet_9+libjit_conv2d_f_14": [
+    544,
+    3,
+    3,
+    1
+  ],
+  "shufflenet_9+libjit_conv2d_f_15": [
+    544,
+    1,
+    1,
+    136
+  ],
+  "shufflenet_9+libjit_conv2d_f_2": [
+    112,
+    1,
+    1,
+    28
+  ],
+  "shufflenet_9+libjit_conv2d_f_3": [
+    136,
+    1,
+    1,
+    34
+  ],
+  "shufflenet_9+libjit_conv2d_f_4": [
+    136,
+    3,
+    3,
+    1
+  ],
+  "shufflenet_9+libjit_conv2d_f_5": [
+    136,
+    1,
+    1,
+    34
+  ],
+  "shufflenet_9+libjit_conv2d_f_6": [
+    136,
+    3,
+    3,
+    1
+  ],
+  "shufflenet_9+libjit_conv2d_f_7": [
+    136,
+    1,
+    1,
+    34
+  ],
+  "shufflenet_9+libjit_conv2d_f_8": [
+    272,
+    1,
+    1,
+    68
+  ],
+  "shufflenet_9+libjit_conv2d_f_9": [
+    272,
+    3,
+    3,
+    1
+  ],
+  "shufflenet_9+libjit_fc_f": [
+    544,
+    1000
+  ],
+  "shufflenet_9+libjit_max_pool_f": [
+    3,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1
+  ],
+  "shufflenet_v2_10+libjit_avg_pool_f": [
+    7,
+    7,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "shufflenet_v2_10+libjit_conv2d_f": [
+    24,
+    3,
+    3,
+    3
+  ],
+  "shufflenet_v2_10+libjit_conv2d_f_0": [
+    24,
+    3,
+    3,
+    1
+  ],
+  "shufflenet_v2_10+libjit_conv2d_f_1": [
+    58,
+    1,
+    1,
+    24
+  ],
+  "shufflenet_v2_10+libjit_conv2d_f_10": [
+    116,
+    1,
+    1,
+    116
+  ],
+  "shufflenet_v2_10+libjit_conv2d_f_11": [
+    116,
+    3,
+    3,
+    1
+  ],
+  "shufflenet_v2_10+libjit_conv2d_f_12": [
+    232,
+    3,
+    3,
+    1
+  ],
+  "shufflenet_v2_10+libjit_conv2d_f_13": [
+    232,
+    1,
+    1,
+    232
+  ],
+  "shufflenet_v2_10+libjit_conv2d_f_14": [
+    232,
+    1,
+    1,
+    232
+  ],
+  "shufflenet_v2_10+libjit_conv2d_f_15": [
+    232,
+    1,
+    1,
+    232
+  ],
+  "shufflenet_v2_10+libjit_conv2d_f_16": [
+    232,
+    3,
+    3,
+    1
+  ],
+  "shufflenet_v2_10+libjit_conv2d_f_17": [
+    1024,
+    1,
+    1,
+    464
+  ],
+  "shufflenet_v2_10+libjit_conv2d_f_2": [
+    58,
+    1,
+    1,
+    24
+  ],
+  "shufflenet_v2_10+libjit_conv2d_f_3": [
+    58,
+    3,
+    3,
+    1
+  ],
+  "shufflenet_v2_10+libjit_conv2d_f_4": [
+    58,
+    1,
+    1,
+    58
+  ],
+  "shufflenet_v2_10+libjit_conv2d_f_5": [
+    58,
+    1,
+    1,
+    58
+  ],
+  "shufflenet_v2_10+libjit_conv2d_f_6": [
+    58,
+    3,
+    3,
+    1
+  ],
+  "shufflenet_v2_10+libjit_conv2d_f_7": [
+    116,
+    3,
+    3,
+    1
+  ],
+  "shufflenet_v2_10+libjit_conv2d_f_8": [
+    116,
+    1,
+    1,
+    116
+  ],
+  "shufflenet_v2_10+libjit_conv2d_f_9": [
+    116,
+    1,
+    1,
+    116
+  ],
+  "shufflenet_v2_10+libjit_fc_f": [
+    1024,
+    1000
+  ],
+  "shufflenet_v2_10+libjit_max_pool_f": [
+    3,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1
+  ],
+  "squeezenet1_0_3+libjit_avg_pool_f": [
+    13,
+    13,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "squeezenet1_0_3+libjit_conv2d_f": [
+    64,
+    3,
+    3,
+    3
+  ],
+  "squeezenet1_0_3+libjit_conv2d_f_0": [
+    16,
+    1,
+    1,
+    64
+  ],
+  "squeezenet1_0_3+libjit_conv2d_f_1": [
+    16,
+    1,
+    1,
+    128
+  ],
+  "squeezenet1_0_3+libjit_conv2d_f_2": [
+    32,
+    1,
+    1,
+    128
+  ],
+  "squeezenet1_0_3+libjit_conv2d_f_3": [
+    32,
+    1,
+    1,
+    256
+  ],
+  "squeezenet1_0_3+libjit_conv2d_f_4": [
+    48,
+    1,
+    1,
+    256
+  ],
+  "squeezenet1_0_3+libjit_conv2d_f_5": [
+    48,
+    1,
+    1,
+    384
+  ],
+  "squeezenet1_0_3+libjit_conv2d_f_6": [
+    64,
+    1,
+    1,
+    384
+  ],
+  "squeezenet1_0_3+libjit_conv2d_f_7": [
+    64,
+    1,
+    1,
+    512
+  ],
+  "squeezenet1_0_3+libjit_conv2d_f_8": [
+    1000,
+    1,
+    1,
+    512
+  ],
+  "squeezenet1_0_3+libjit_convDKKC8_f": [
+    8,
+    1,
+    1,
+    16,
+    8
+  ],
+  "squeezenet1_0_3+libjit_convDKKC8_f_0": [
+    8,
+    3,
+    3,
+    16,
+    8
+  ],
+  "squeezenet1_0_3+libjit_convDKKC8_f_1": [
+    16,
+    1,
+    1,
+    32,
+    8
+  ],
+  "squeezenet1_0_3+libjit_convDKKC8_f_2": [
+    16,
+    3,
+    3,
+    32,
+    8
+  ],
+  "squeezenet1_0_3+libjit_convDKKC8_f_3": [
+    24,
+    1,
+    1,
+    48,
+    8
+  ],
+  "squeezenet1_0_3+libjit_convDKKC8_f_4": [
+    24,
+    3,
+    3,
+    48,
+    8
+  ],
+  "squeezenet1_0_3+libjit_convDKKC8_f_5": [
+    32,
+    1,
+    1,
+    64,
+    8
+  ],
+  "squeezenet1_0_3+libjit_convDKKC8_f_6": [
+    32,
+    3,
+    3,
+    64,
+    8
+  ],
+  "squeezenet1_0_3+libjit_max_pool_f": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "squeezenet1_0_3+libjit_max_pool_f_0": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "squeezenet1_0_3+libjit_max_pool_f_1": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "squeezenet1_1_7+libjit_avg_pool_f": [
+    13,
+    13,
+    13,
+    13,
+    0,
+    0,
+    0,
+    0
+  ],
+  "squeezenet1_1_7+libjit_conv2d_f": [
+    64,
+    3,
+    3,
+    3
+  ],
+  "squeezenet1_1_7+libjit_conv2d_f_0": [
+    16,
+    1,
+    1,
+    64
+  ],
+  "squeezenet1_1_7+libjit_conv2d_f_1": [
+    16,
+    1,
+    1,
+    128
+  ],
+  "squeezenet1_1_7+libjit_conv2d_f_2": [
+    32,
+    1,
+    1,
+    128
+  ],
+  "squeezenet1_1_7+libjit_conv2d_f_3": [
+    32,
+    1,
+    1,
+    256
+  ],
+  "squeezenet1_1_7+libjit_conv2d_f_4": [
+    48,
+    1,
+    1,
+    256
+  ],
+  "squeezenet1_1_7+libjit_conv2d_f_5": [
+    48,
+    1,
+    1,
+    384
+  ],
+  "squeezenet1_1_7+libjit_conv2d_f_6": [
+    64,
+    1,
+    1,
+    384
+  ],
+  "squeezenet1_1_7+libjit_conv2d_f_7": [
+    64,
+    1,
+    1,
+    512
+  ],
+  "squeezenet1_1_7+libjit_conv2d_f_8": [
+    1000,
+    1,
+    1,
+    512
+  ],
+  "squeezenet1_1_7+libjit_convDKKC8_f": [
+    8,
+    1,
+    1,
+    16,
+    8
+  ],
+  "squeezenet1_1_7+libjit_convDKKC8_f_0": [
+    8,
+    3,
+    3,
+    16,
+    8
+  ],
+  "squeezenet1_1_7+libjit_convDKKC8_f_1": [
+    16,
+    1,
+    1,
+    32,
+    8
+  ],
+  "squeezenet1_1_7+libjit_convDKKC8_f_2": [
+    16,
+    3,
+    3,
+    32,
+    8
+  ],
+  "squeezenet1_1_7+libjit_convDKKC8_f_3": [
+    24,
+    1,
+    1,
+    48,
+    8
+  ],
+  "squeezenet1_1_7+libjit_convDKKC8_f_4": [
+    24,
+    3,
+    3,
+    48,
+    8
+  ],
+  "squeezenet1_1_7+libjit_convDKKC8_f_5": [
+    32,
+    1,
+    1,
+    64,
+    8
+  ],
+  "squeezenet1_1_7+libjit_convDKKC8_f_6": [
+    32,
+    3,
+    3,
+    64,
+    8
+  ],
+  "squeezenet1_1_7+libjit_max_pool_f": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "squeezenet1_1_7+libjit_max_pool_f_0": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "squeezenet1_1_7+libjit_max_pool_f_1": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "vgg16_7+libjit_conv2d_f": [
+    64,
+    3,
+    3,
+    3
+  ],
+  "vgg16_7+libjit_conv2d_f_0": [
+    64,
+    3,
+    3,
+    64
+  ],
+  "vgg16_7+libjit_conv2d_f_1": [
+    128,
+    3,
+    3,
+    64
+  ],
+  "vgg16_7+libjit_conv2d_f_2": [
+    128,
+    3,
+    3,
+    128
+  ],
+  "vgg16_7+libjit_conv2d_f_3": [
+    256,
+    3,
+    3,
+    128
+  ],
+  "vgg16_7+libjit_conv2d_f_4": [
+    256,
+    3,
+    3,
+    256
+  ],
+  "vgg16_7+libjit_conv2d_f_5": [
+    512,
+    3,
+    3,
+    256
+  ],
+  "vgg16_7+libjit_conv2d_f_6": [
+    512,
+    3,
+    3,
+    512
+  ],
+  "vgg16_7+libjit_conv2d_f_7": [
+    512,
+    3,
+    3,
+    512
+  ],
+  "vgg16_7+libjit_fc_f": [
+    25088,
+    4096
+  ],
+  "vgg16_7+libjit_fc_f_0": [
+    4096,
+    4096
+  ],
+  "vgg16_7+libjit_fc_f_1": [
+    4096,
+    1000
+  ],
+  "vgg16_7+libjit_max_pool_f": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "vgg16_7+libjit_max_pool_f_0": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "vgg16_7+libjit_max_pool_f_1": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "vgg16_7+libjit_max_pool_f_2": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "vgg16_7+libjit_max_pool_f_3": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "vgg16_bn_7+libjit_conv2d_f": [
+    64,
+    3,
+    3,
+    3
+  ],
+  "vgg16_bn_7+libjit_conv2d_f_0": [
+    64,
+    3,
+    3,
+    64
+  ],
+  "vgg16_bn_7+libjit_conv2d_f_1": [
+    128,
+    3,
+    3,
+    64
+  ],
+  "vgg16_bn_7+libjit_conv2d_f_2": [
+    128,
+    3,
+    3,
+    128
+  ],
+  "vgg16_bn_7+libjit_conv2d_f_3": [
+    256,
+    3,
+    3,
+    128
+  ],
+  "vgg16_bn_7+libjit_conv2d_f_4": [
+    256,
+    3,
+    3,
+    256
+  ],
+  "vgg16_bn_7+libjit_conv2d_f_5": [
+    512,
+    3,
+    3,
+    256
+  ],
+  "vgg16_bn_7+libjit_conv2d_f_6": [
+    512,
+    3,
+    3,
+    512
+  ],
+  "vgg16_bn_7+libjit_conv2d_f_7": [
+    512,
+    3,
+    3,
+    512
+  ],
+  "vgg16_bn_7+libjit_fc_f": [
+    25088,
+    4096
+  ],
+  "vgg16_bn_7+libjit_fc_f_0": [
+    4096,
+    4096
+  ],
+  "vgg16_bn_7+libjit_fc_f_1": [
+    4096,
+    1000
+  ],
+  "vgg16_bn_7+libjit_max_pool_f": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "vgg16_bn_7+libjit_max_pool_f_0": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "vgg16_bn_7+libjit_max_pool_f_1": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "vgg16_bn_7+libjit_max_pool_f_2": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "vgg16_bn_7+libjit_max_pool_f_3": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "vgg19_7+libjit_conv2d_f": [
+    64,
+    3,
+    3,
+    3
+  ],
+  "vgg19_7+libjit_conv2d_f_0": [
+    64,
+    3,
+    3,
+    64
+  ],
+  "vgg19_7+libjit_conv2d_f_1": [
+    128,
+    3,
+    3,
+    64
+  ],
+  "vgg19_7+libjit_conv2d_f_2": [
+    128,
+    3,
+    3,
+    128
+  ],
+  "vgg19_7+libjit_conv2d_f_3": [
+    256,
+    3,
+    3,
+    128
+  ],
+  "vgg19_7+libjit_conv2d_f_4": [
+    256,
+    3,
+    3,
+    256
+  ],
+  "vgg19_7+libjit_conv2d_f_5": [
+    512,
+    3,
+    3,
+    256
+  ],
+  "vgg19_7+libjit_conv2d_f_6": [
+    512,
+    3,
+    3,
+    512
+  ],
+  "vgg19_7+libjit_conv2d_f_7": [
+    512,
+    3,
+    3,
+    512
+  ],
+  "vgg19_7+libjit_fc_f": [
+    25088,
+    4096
+  ],
+  "vgg19_7+libjit_fc_f_0": [
+    4096,
+    4096
+  ],
+  "vgg19_7+libjit_fc_f_1": [
+    4096,
+    1000
+  ],
+  "vgg19_7+libjit_max_pool_f": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "vgg19_7+libjit_max_pool_f_0": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "vgg19_7+libjit_max_pool_f_1": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "vgg19_7+libjit_max_pool_f_2": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "vgg19_7+libjit_max_pool_f_3": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "vgg19_bn_7+libjit_conv2d_f": [
+    64,
+    3,
+    3,
+    3
+  ],
+  "vgg19_bn_7+libjit_conv2d_f_0": [
+    64,
+    3,
+    3,
+    64
+  ],
+  "vgg19_bn_7+libjit_conv2d_f_1": [
+    128,
+    3,
+    3,
+    64
+  ],
+  "vgg19_bn_7+libjit_conv2d_f_2": [
+    128,
+    3,
+    3,
+    128
+  ],
+  "vgg19_bn_7+libjit_conv2d_f_3": [
+    256,
+    3,
+    3,
+    128
+  ],
+  "vgg19_bn_7+libjit_conv2d_f_4": [
+    256,
+    3,
+    3,
+    256
+  ],
+  "vgg19_bn_7+libjit_conv2d_f_5": [
+    512,
+    3,
+    3,
+    256
+  ],
+  "vgg19_bn_7+libjit_conv2d_f_6": [
+    512,
+    3,
+    3,
+    512
+  ],
+  "vgg19_bn_7+libjit_conv2d_f_7": [
+    512,
+    3,
+    3,
+    512
+  ],
+  "vgg19_bn_7+libjit_fc_f": [
+    25088,
+    4096
+  ],
+  "vgg19_bn_7+libjit_fc_f_0": [
+    4096,
+    4096
+  ],
+  "vgg19_bn_7+libjit_fc_f_1": [
+    4096,
+    1000
+  ],
+  "vgg19_bn_7+libjit_max_pool_f": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "vgg19_bn_7+libjit_max_pool_f_0": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "vgg19_bn_7+libjit_max_pool_f_1": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "vgg19_bn_7+libjit_max_pool_f_2": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "vgg19_bn_7+libjit_max_pool_f_3": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "vgg19_caffe2_9+libjit_conv2d_f": [
+    64,
+    3,
+    3,
+    3
+  ],
+  "vgg19_caffe2_9+libjit_conv2d_f_0": [
+    64,
+    3,
+    3,
+    64
+  ],
+  "vgg19_caffe2_9+libjit_conv2d_f_1": [
+    128,
+    3,
+    3,
+    64
+  ],
+  "vgg19_caffe2_9+libjit_conv2d_f_2": [
+    128,
+    3,
+    3,
+    128
+  ],
+  "vgg19_caffe2_9+libjit_conv2d_f_3": [
+    256,
+    3,
+    3,
+    128
+  ],
+  "vgg19_caffe2_9+libjit_conv2d_f_4": [
+    256,
+    3,
+    3,
+    256
+  ],
+  "vgg19_caffe2_9+libjit_conv2d_f_5": [
+    512,
+    3,
+    3,
+    256
+  ],
+  "vgg19_caffe2_9+libjit_conv2d_f_6": [
+    512,
+    3,
+    3,
+    512
+  ],
+  "vgg19_caffe2_9+libjit_conv2d_f_7": [
+    512,
+    3,
+    3,
+    512
+  ],
+  "vgg19_caffe2_9+libjit_fc_f": [
+    25088,
+    4096
+  ],
+  "vgg19_caffe2_9+libjit_fc_f_0": [
+    4096,
+    4096
+  ],
+  "vgg19_caffe2_9+libjit_fc_f_1": [
+    4096,
+    1000
+  ],
+  "vgg19_caffe2_9+libjit_max_pool_f": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "vgg19_caffe2_9+libjit_max_pool_f_0": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "vgg19_caffe2_9+libjit_max_pool_f_1": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "vgg19_caffe2_9+libjit_max_pool_f_2": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "vgg19_caffe2_9+libjit_max_pool_f_3": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "zfnet512_12+libjit_conv2d_f": [
+    96,
+    7,
+    7,
+    3
+  ],
+  "zfnet512_12+libjit_conv2d_f_0": [
+    256,
+    5,
+    5,
+    96
+  ],
+  "zfnet512_12+libjit_conv2d_f_1": [
+    512,
+    3,
+    3,
+    256
+  ],
+  "zfnet512_12+libjit_conv2d_f_2": [
+    512,
+    3,
+    3,
+    512
+  ],
+  "zfnet512_12+libjit_fc_f": [
+    18432,
+    4096
+  ],
+  "zfnet512_12+libjit_fc_f_0": [
+    4096,
+    1024
+  ],
+  "zfnet512_12+libjit_fc_f_1": [
+    1024,
+    1000
+  ],
+  "zfnet512_12+libjit_max_pool_f": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "zfnet512_12+libjit_max_pool_f_0": [
+    3,
+    3,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "zfnet512_12+libjit_max_pool_f_1": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+  ]
+}
